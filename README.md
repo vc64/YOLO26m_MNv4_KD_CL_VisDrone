@@ -1,6 +1,6 @@
 # Knowledge Distillation and Curriculum Learning for Object Detection on Drone-based Images
 
-Final project for COMPSCI 682: Neural Networks at UMass Amherst.
+Final project for COMPSCI 682: Neural Networks at UMass Amherst for Spring 2026.
 
 Explored use of curriculum learning and knowledge distillation for object detection.
 
