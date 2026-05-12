@@ -33,3 +33,7 @@ Explored use of curriculum learning and knowledge distillation for object detect
 ### Evaluation
 - We evaluate all four models on the predefined validation and test sets from VisDrone
 - We measure mean Average Precision (mAP50 and mAP50-95) across all validation and test cases
+
+## Resources
+- ultralytics fork (with UIB implementation added): https://github.com/vc64/ultralytics
+- Model files: https://huggingface.co/vc64/YOLO26m_MNv4_KD_CL_VisDrone
